@@ -1,15 +1,18 @@
 Installed Environment:
+
     Pytho 3.8.2
     Aapche 2.4.52
     PHP 8.1.2
 
 Python Scripts:
+
     getFollowers.py
         > python3 getFollowers.py [igusername] [igpassword] [f file | p post]
         'f' generates [igusername].json of followers
         'p' generates [igusername].jsonp of post data
 
 Web Scripts:
+        
     login.html
         First page where user put their instagram username and password
         
