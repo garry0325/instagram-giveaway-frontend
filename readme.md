@@ -1,7 +1,11 @@
 Installed Environment:
+
     Python 3.8.2
+    
     Aapche 2.4.52
+    
     PHP 8.1.2
+    
 
 Python Scripts:
     
