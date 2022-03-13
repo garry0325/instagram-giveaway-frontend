@@ -1,5 +1,5 @@
 Installed Environment:
-    Pytho 3.8.2
+    Python 3.8.2
     Aapche 2.4.52
     PHP 8.1.2
 
